@@ -20,6 +20,10 @@ public class LoginPageTest extends TestBase{
 		super ();
 	}
 	
+	//Added line to Feature check merge 
+	
+	
+	
 	
 	@BeforeMethod
 	public void setup ()
@@ -28,6 +32,8 @@ public class LoginPageTest extends TestBase{
 		loginPage = new LoginPage();
 		
 	}
+	
+	//Some more random changes
 	
 	@Test (priority = 3)
 	public void LoginTest ()
