@@ -39,7 +39,7 @@ public class LoginPageTest extends TestBase{
 		
 	}
 	
-	@Test (priority = 2)
+	@Test (priority = 2) 
 	public void LoginPageLogoTest()
 	
 	{
