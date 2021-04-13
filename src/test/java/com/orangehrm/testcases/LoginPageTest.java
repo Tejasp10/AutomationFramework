@@ -18,7 +18,7 @@ public class LoginPageTest extends TestBase{
 	
 	public  LoginPageTest() {
 		super ();
-	}
+	}	
 	
 	//Added line to master check merge 
 	
@@ -30,6 +30,8 @@ public class LoginPageTest extends TestBase{
 		loginPage = new LoginPage();
 		
 	}
+	
+	//Some more random changes
 	
 	@Test (priority = 3)
 	public void LoginTest ()
