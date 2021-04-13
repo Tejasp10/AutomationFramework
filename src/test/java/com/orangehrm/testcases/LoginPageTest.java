@@ -18,11 +18,9 @@ public class LoginPageTest extends TestBase{
 	
 	public  LoginPageTest() {
 		super ();
-	}
+	}	
 	
-	//Added line to Feature check merge 
-	
-	
+	//Added line to master check merge 
 	
 	
 	@BeforeMethod
