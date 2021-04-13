@@ -20,6 +20,8 @@ public class LoginPageTest extends TestBase{
 		super ();
 	}
 	
+	//Added line to master check merge 
+	
 	
 	@BeforeMethod
 	public void setup ()
